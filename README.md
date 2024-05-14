@@ -1,3 +1,13 @@
+## DEMO
+![Screenshot (130)](https://github.com/MuhammadAbdurrohim/laravel8-assets-it-management/assets/85945415/1c980b0b-36e3-47c1-afc3-16429e46ced3)
+
+![Screenshot (127)](https://github.com/MuhammadAbdurrohim/laravel8-assets-it-management/assets/85945415/cf712b79-f16d-40d0-969c-91d193818370)
+
+![Screenshot (128)](https://github.com/MuhammadAbdurrohim/laravel8-assets-it-management/assets/85945415/50af2cb5-73e8-4289-b193-c743c51b46f6)
+
+![Screenshot (129)](https://github.com/MuhammadAbdurrohim/laravel8-assets-it-management/assets/85945415/a2a5c219-3d10-4ebf-832e-44256739fef7)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
